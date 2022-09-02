@@ -1,4 +1,4 @@
-from concurrent.futures import thread
+
 import pyttsx3
 import cryptocompare
 import time
