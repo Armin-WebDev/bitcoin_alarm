@@ -1,0 +1,4 @@
+cryptocompare==0.7.6
+playsound==1.2.2
+pyttsx3==2.90
+keyboard==0.13.5
